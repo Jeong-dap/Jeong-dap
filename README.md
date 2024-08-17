@@ -20,7 +20,7 @@ Studying
 <img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge">
 <br>
 <br>
-<Tools>
+Tools
 <br>
 <br>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge">
