@@ -23,7 +23,8 @@ Studying
 Tools
 <br>
 <br>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge"> <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/visual studio-615EFF?style=for-the-badge">
 <br>
 <br>
 Others
