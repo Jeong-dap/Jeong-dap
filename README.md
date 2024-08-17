@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Studying
+<br>
 <img src="https://img.shields.io/badge/java-DD0700?style=for-the-badge">
