@@ -18,3 +18,7 @@ Studying
 <br>
 <br>
 <img src="https://img.shields.io/badge/java-DD0700?style=for-the-badge"> <img src="https://img.shields.io/badge/C-FECC00?style=for-the-badge"> <img src="https://img.shields.io/badge/C++-02A9FF?style=for-the-badge">
+<br>
+<br>
+Others
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge">
