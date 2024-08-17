@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Studying
 <br>
 <br>
-<img src="https://img.shields.io/badge/java-DD0700?style=for-the-badge"> <img src="https://img.shields.io/badge/C-68BC71?style=for-the-badge">
+<img src="https://img.shields.io/badge/java-DD0700?style=for-the-badge"> <img src="https://img.shields.io/badge/C-FECC00?style=for-the-badge"> <img src="https://img.shields.io/badge/C++-02A9FF?style=for-the-badge">
