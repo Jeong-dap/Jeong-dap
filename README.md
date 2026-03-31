@@ -1,37 +1,44 @@
-## Hi there 👋
+# ## Hi there 👋 I'm Jeong-dap!
 
-<!--
-**Jeong-dap/Jeong-dap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Chungbuk Univ
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Studying
-<br>
-<br>
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" />
+</div>
+
+### 🔭 I’m currently working on
+* **VEDA Academy** 에서 열심히 성장 중입니다 🌱
+
+---
+
+### 🛠 Tech Stack
+
+#### 📚 Studying
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+</div>
+
 <br>
+
+#### 🔧 Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
+
 <br>
-Tools
-<br>
-<br>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge"> <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/visual studio-615EFF?style=for-the-badge"> <img src="https://img.shields.io/badge/vscode-2F80ED?style=for-the-badge">
-<br>
-<br>
-Others
-<br>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"> 
+
+#### 🎨 Others
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeong-dap&show_icons=true&theme=radical" />
+</div>
