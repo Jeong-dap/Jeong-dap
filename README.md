@@ -1,9 +1,5 @@
 # ## Hi there 👋 I'm Jeong-dap!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" />
-</div>
-
 ### 🔭 I’m currently working on
 * **VEDA Academy** 에서 열심히 성장 중입니다 🌱
 
