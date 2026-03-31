@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 Studying
 <br>
 <br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge">
+<div align="center">
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </p>
+</div><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge">
 <br>
 <br>
 Tools
