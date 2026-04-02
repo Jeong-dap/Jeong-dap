@@ -1,4 +1,4 @@
-# ## Hi there 👋 I'm Jeong-dap!
+# Hi there 👋 I'm Jeong-dap!
 
 ### 🔭 I’m currently working on VEDA Academy
 * **VEDA Academy** 에서 열심히 성장 중입니다 🌱
